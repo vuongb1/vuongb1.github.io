@@ -26,7 +26,6 @@ This is my corner of the web. It highlights my background as an IT Support Techn
 - 🌐 This portfolio site
 - 💅 Lash business website *(in progress)*
 - 🐾 Digital pet browser app *(in progress)*
-
 ---
 
 ## Contact
